@@ -7,7 +7,7 @@
 Seja bem-vindo ao meu perfil no Github!
 
 - ℹ️ Informações
-  - 🇧🇷 Carioca com <!--AGE-->20<!--/AGE--> anos e natural do Rio de Janeiro (RJ), Brasil
+  - 🇧🇷 Carioca com <!--AGE-->21<!--/AGE--> anos e natural do Rio de Janeiro (RJ), Brasil
   - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Lavras ([UFLA](https://ufla.br) - 2024-2028)
 
 
