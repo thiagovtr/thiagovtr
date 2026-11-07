@@ -13,7 +13,6 @@ Seja bem-vindo ao meu perfil no Github!
 
 - 🗂️ Trabalhos e Projetos
   - 💼 Front-End Developer na [Emakers Jr](https://emakersjr.com.br)
-  - 🧑🏻‍💻 Fortnite Developer (UEFN) para [Thiagxsz](https://solo.to/thiagxsz) dentro do [Fortnite](https://fortnite.com)
 
 - ⚙️ Linguagens e Tecnologias
     <td><a href="#"><img src="https://skillicons.dev/icons?i=vscode,git,nodejs,js,cpp,java,html,css,react,mysql" style="height: 30px;"/></a></td>
